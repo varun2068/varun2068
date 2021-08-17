@@ -1,4 +1,4 @@
-<img align="center" src="" class="banner"/>
+<img align="center" src="Varun Gupta (2).png" class="banner" width="100%" height="50%"/>
 
 <h1 align="center">Hi Amigos, I'm Varun Gupta</h1>
 <h3 align="center">A Tech-Enthusiast from India</h3>
